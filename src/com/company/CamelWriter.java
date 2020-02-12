@@ -4,7 +4,7 @@ import javax.swing.plaf.synth.SynthTextAreaUI;
 import java.io.*;
 
 
-class CamelWriter {
+public class CamelWriter {
 
     // converts Strings to lowerCamel case
     private static String toLowerCamelCase(String line) {
